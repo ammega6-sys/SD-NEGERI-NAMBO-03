@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Informasi & Manajemen Sekolah SD Negeri Nambo 03",
+  "description": "Aplikasi interaktif manajemen data siswa, kelas & ekskul, kepegawaian & guru, jam mengajar, serta laporan terpadu SD Negeri Nambo 03.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
